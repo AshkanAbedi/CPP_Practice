@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22dfc21e_002D18c9_002D4343_002D92bd_002Db594f7c0596a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BaseActor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::58E97E81-E355-3460-A8AD-648574551747::Windows,Version=v10.0.26100::CPP_Practice.BaseActor&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=72572d89_002D4ceb_002D457b_002Da86b_002D8478c49cf389/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BaseActor #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::58E97E81-E355-3460-A8AD-648574551747::Windows,Version=v10.0.26100::CPP_Practice.BaseActor&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8fa354f6_002De216_002D4052_002Dabdd_002D3401c19585da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests in category 'EditorContext'" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Category&gt;EditorContext&lt;/Category&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
